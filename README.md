@@ -136,3 +136,11 @@ User
 For this week, we focused on setting up the necessary backend components and imagining some of the login and registration screen. Focus on storyboard and view controller design will follow next week.
 
 <img src='https://i.imgur.com/30igOIQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+### Milestone 2
+[x] User can look at different food / recipe options
+[x] User can see their nutritional / dietary progress
+
+![Milestone 2](https://user-images.githubusercontent.com/86666720/199126978-2969b29a-6c06-43cd-a6fd-d77d6801b721.gif)
+
